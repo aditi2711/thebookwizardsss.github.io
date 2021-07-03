@@ -1,14 +1,11 @@
-footer {
-   background-image: url(https://images.unsplash.com/photo-1593270573246-2dca2f2c1c43?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJsdWUlMjBkYXJrJTIwc2t5fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80);
-    padding: 15px 0;
-   
-    box-shadow: 0 -1px 3px rgb(0 0 0 / 10%), 0 -2px 2px rgb(0 0 0 / 6%), 0 0 2px rgb(0 0 0 / 7%);
-}
+
 .footer-container{
-    background-color:  #39322b;
-   padding: 0 40px;
+    background-image: url(https://i.pinimg.com/originals/d0/df/5f/d0df5f8ca14833483ba7f2e68f0e2034.jpg);
+    background-size: 100%;
+    
+  padding: 0 40px;
     display: flex;
-    max-width: 1440px;
+   
     margin: 0 auto;
 }
 .footer-container .links-container h3{
@@ -16,6 +13,8 @@ footer {
     font-weight: 700;
 
 }
+
+
 .footer-container u1{
     font-weight: 400;
     list-style-type: none;
@@ -40,6 +39,7 @@ footer {
 }
 
 footer h3{
+    
     font-weight: 400;
     margin-bottom: 24px;
 }
